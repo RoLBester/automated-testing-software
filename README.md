@@ -1,6 +1,6 @@
 # Automated Testing Tool for LLM Chatbots
 
-> ⚠️ Concept repo only – planning and design stage, no production code pushed yet for security reasons.
+> ⚠️ Ongoing project – planning, design and development stage, no production code pushed yet for security reasons.
 
 This project is a small Python toolkit to **automate testing for some certain LLM-based chatbots**.
 
