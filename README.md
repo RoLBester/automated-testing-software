@@ -1,6 +1,8 @@
 # Automated Testing Tool for LLM Chatbots
 
-This project is a small Python toolkit to **automate testing for LLM-based chatbots**.
+> ⚠️ Concept repo only – planning and design stage, no production code pushed yet for security reasons.
+
+This project is a small Python toolkit to **automate testing for some certain LLM-based chatbots**.
 
 The idea is:
 
